@@ -1,2 +1,2 @@
-# C-Projects
+# C++ Projects
 Some of the C++ projects that I built.
